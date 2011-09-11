@@ -1,0 +1,15 @@
+==== Wiki3D ====
+
+A simple 3D description language embedded in a Java Applet.
+
+=== run as a MediaWiki extension ===
+
+Configuration instructions: http://www.mediawiki.org/wiki/Extension:Wiki3D
+
+=== run as an Applet ===
+
+Open javaWiki3D.html in a web browser, mini3D.jar being in the same folder as the web page.
+
+=== run on the command line ===
+
+  java -jar mini3D.jar src/org/yriarte/wiki3D/Wiki3D.txt 

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: org.yriarte.wiki3D.Wiki3DFileReader
+
