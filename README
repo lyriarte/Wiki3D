@@ -2,6 +2,9 @@
 
 A simple 3D description language embedded in a Java Applet.
 
+  * License: BSD <http://www.opensource.org/licenses/bsd-license.php>
+
+
 === run as a MediaWiki extension ===
 
 Configuration instructions: http://www.mediawiki.org/wiki/Extension:Wiki3D
