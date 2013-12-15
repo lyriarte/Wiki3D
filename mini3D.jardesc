@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jardesc>
-<jar path="/Users/lyriarte/git/JavaCore/mini3D.jar"/>
-<options buildIfNeeded="true" compress="true" descriptionLocation="/JavaCore/mini3D.jardesc" exportErrors="false" exportWarnings="true" overwrite="true" saveDescription="true" useSourceFolders="false"/>
-<manifest generateManifest="true" mainClassHandleIdentifier="=JavaCore/src&lt;org.yriarte.wiki3D{Wiki3DFileReader.java[Wiki3DFileReader" manifestLocation="/JavaCore/mini3D.xml" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+<jar path="/Users/lyriarte/git/Wiki3D/mini3D.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/Wiki3D/mini3D.jardesc" exportErrors="false" exportWarnings="true" overwrite="true" saveDescription="true" useSourceFolders="false"/>
+<manifest generateManifest="true" mainClassHandleIdentifier="=Wiki3D/src&lt;org.yriarte.wiki3D{Wiki3DFileReader.java[Wiki3DFileReader" manifestLocation="/Wiki3D/mini3D.xml" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
 <sealing sealJar="true">
 <packagesToSeal/>
 <packagesToUnSeal/>
 </sealing>
 </manifest>
 <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
-<file path="/JavaCore/mini3D.jardesc"/>
-<file path="/JavaCore/mini3D.xml"/>
-<file path="/JavaCore/javaWiki3D.html"/>
-<javaElement handleIdentifier="=JavaCore/src"/>
+<file path="/Wiki3D/mini3D.jardesc"/>
+<file path="/Wiki3D/mini3D.xml"/>
+<file path="/Wiki3D/javaWiki3D.html"/>
+<javaElement handleIdentifier="=Wiki3D/src"/>
 </selectedElements>
 </jardesc>
